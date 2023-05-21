@@ -1,4 +1,6 @@
-# Synapsis Test
+# Sekawan Media Test
+
+Demo : https://deekortest.netlify.app
 
 Ini adalah project pembuatan landing page, 
 project ini tentang situs penjualan furniture yang diambil data nya dari https://course-api.com/react-store-products
