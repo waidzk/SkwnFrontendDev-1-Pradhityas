@@ -25,11 +25,11 @@ npm install
 ```sh
 npm run build
 ```
+Open index.html in dist folder
 ## Run in development mode
 ```sh
 npm run start-dev
 ```
-
 ## License
 
 MIT
